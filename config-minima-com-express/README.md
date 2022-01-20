@@ -64,7 +64,7 @@
 &nbsp;
 ## Seguindo com a configuração do Express
 &nbsp;
->### instalar o Framework Express
+>### instalar a biblioteca Express
 ```
 > npm install --save express
 ```
