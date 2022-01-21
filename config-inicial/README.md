@@ -1,17 +1,5 @@
 # Node.js
 
->### Observação inicial
-```
-/*
-    -------------------------------------------------
-    Para debugar: 
-        1. no VS Code, abra o arquivo package.json
-        2. Clique na opção Debug acima dos scripts
-        3. escolha o script a debugar, no caso, 'dev'
-    -------------------------------------------------
-*/
-```
-&nbsp;
 >### criar package.json inicial
 
 ```
@@ -72,4 +60,16 @@
   - "main": "./dist/index.js"
   - "start": "node ./"
   - "build": "tsc -p ./"
+&nbsp;
+>### Observação
+```
+/*
+    -------------------------------------------------
+    Para debugar: 
+        1. no VS Code, abra o arquivo package.json
+        2. Clique na opção Debug acima dos scripts
+        3. escolha o script a debugar, no caso, 'dev'
+    -------------------------------------------------
+*/
+```
 
